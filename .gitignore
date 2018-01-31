@@ -1,0 +1,4 @@
+docvenv
+*.pyc
+staticfiles
+.env
