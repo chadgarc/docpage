@@ -1,0 +1,16 @@
+adium-theme-ubuntu==0.3.4
+Django==1.10
+django-filter==1.1.0
+djangorestframework==3.7.7
+djangorestframework-jwt==1.11.0
+Markdown==2.6.11
+numpy==1.11.0
+PAM==0.4.2
+pexpect==4.0.1
+Pillow==3.1.2
+ptyprocess==0.5
+pygame===1.9.1release
+pygobject==3.20.0
+pyinotify==0.9.6
+PyJWT==1.5.3
+unity-lens-photos==1.0
